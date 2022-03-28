@@ -1,0 +1,61 @@
+year,educational_degree,sex,value
+2017,Above bachelor's degree,Females,74.7
+2018,Above bachelor's degree,Females,74.2
+2019,Above bachelor's degree,Females,74.15
+2020,Above bachelor's degree,Females,72.4
+2021,Above bachelor's degree,Females,75.7
+2017,Bachelor's degree,Females,72.30000000000001
+2018,Bachelor's degree,Females,71.75
+2019,Bachelor's degree,Females,72.2
+2020,Bachelor's degree,Females,68.75
+2021,Bachelor's degree,Females,71.35
+2017,High school graduate,Females,50.25
+2018,High school graduate,Females,49.6
+2019,High school graduate,Females,49.05
+2020,High school graduate,Females,44.7
+2021,High school graduate,Females,46.35
+2017,"High school graduate, some post-secondary",Females,58.099999999999994
+2018,"High school graduate, some post-secondary",Females,57.4
+2019,"High school graduate, some post-secondary",Females,57.2
+2020,"High school graduate, some post-secondary",Females,53.4
+2021,"High school graduate, some post-secondary",Females,54.2
+2017,"No degree, certificate or diploma",Females,26.25
+2018,"No degree, certificate or diploma",Females,25.95
+2019,"No degree, certificate or diploma",Females,25.85
+2020,"No degree, certificate or diploma",Females,23.299999999999997
+2021,"No degree, certificate or diploma",Females,25.6
+2017,Postsecondary certificate or diploma,Females,65.05
+2018,Postsecondary certificate or diploma,Females,65.35
+2019,Postsecondary certificate or diploma,Females,65.85
+2020,Postsecondary certificate or diploma,Females,60.85
+2021,Postsecondary certificate or diploma,Females,61.4
+2017,Above bachelor's degree,Males,74.55
+2018,Above bachelor's degree,Males,74.55
+2019,Above bachelor's degree,Males,73.1
+2020,Above bachelor's degree,Males,72.85
+2021,Above bachelor's degree,Males,75.25
+2017,Bachelor's degree,Males,76.25
+2018,Bachelor's degree,Males,76.2
+2019,Bachelor's degree,Males,76.05
+2020,Bachelor's degree,Males,73.25
+2021,Bachelor's degree,Males,75.94999999999999
+2017,High school graduate,Males,66.2
+2018,High school graduate,Males,64.3
+2019,High school graduate,Males,64.1
+2020,High school graduate,Males,61
+2021,High school graduate,Males,61.75
+2017,"High school graduate, some post-secondary",Males,62
+2018,"High school graduate, some post-secondary",Males,62.400000000000006
+2019,"High school graduate, some post-secondary",Males,61.849999999999994
+2020,"High school graduate, some post-secondary",Males,58.05
+2021,"High school graduate, some post-secondary",Males,59.7
+2017,"No degree, certificate or diploma",Males,39.65
+2018,"No degree, certificate or diploma",Males,40.150000000000006
+2019,"No degree, certificate or diploma",Males,39.75
+2020,"No degree, certificate or diploma",Males,37.7
+2021,"No degree, certificate or diploma",Males,38.75
+2017,Postsecondary certificate or diploma,Males,72.25
+2018,Postsecondary certificate or diploma,Males,72.25
+2019,Postsecondary certificate or diploma,Males,72.9
+2020,Postsecondary certificate or diploma,Males,69.1
+2021,Postsecondary certificate or diploma,Males,70
