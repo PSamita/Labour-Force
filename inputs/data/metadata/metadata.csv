@@ -1,0 +1,93 @@
+﻿"Cube Title","Product Id","CANSIM Id",URL,"Cube Notes","Archive Status",Frequency,"Start Reference Period","End Reference Period","Total number of dimensions"
+"Labour force characteristics by educational degree, monthly, unadjusted for seasonality","14100117","282-0208","https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1410011701",1;3,"CURRENT - a cube available to the public and that is current","Monthly","1990-01-01","2022-02-01","5",
+
+"Dimension ID","Dimension name","Dimension Notes","Dimension Definitions"
+"1","Geography",15,""
+"2","Labour force characteristics",,""
+"3","Educational degree",,""
+"4","Sex",,""
+"5","Age group",,""
+
+"Dimension ID","Member Name","Classification Code","Member ID","Parent Member ID",Terminated,"Member Notes","Member Definitions"
+"1","Newfoundland and Labrador","[10]","2","1","",,
+"1","Prince Edward Island","[11]","3","1","",,
+"1","Nova Scotia","[12]","4","1","",,
+"1","New Brunswick","[13]","5","1","",,
+"1","Quebec","[24]","6","1","",,
+"1","Ontario","[35]","7","1","",,
+"1","Manitoba","[46]","8","1","",,
+"1","Saskatchewan","[47]","9","1","",,
+"1","Alberta","[48]","10","1","",,
+"1","British Columbia","[59]","11","1","",,
+"1","Canada","[11124]","1","","",,
+"2","Labour force","","2","1","",5,
+"2","Not in labour force","","7","1","",10,
+"2","Employment","","3","2","",6,
+"2","Unemployment","","6","2","",9,
+"2","Full-time employment","","4","3","",7,
+"2","Part-time employment","","5","3","",8,
+"2","Population","","1","","",4;14,
+"2","Unemployment rate","","8","","",11,
+"2","Participation rate","","9","","",12,
+"2","Employment rate","","10","","",13,
+"3","With high school graduation","","7","5","",,
+"3","Without high school graduation","","6","5","",,
+"3","Bachelor's degree","","9","8","",,
+"3","Above bachelor's degree","","10","8","",,
+"3","Total, all education levels","","1","","",,
+"3","No degree, certificate or diploma","","2","","",,
+"3","High school graduate","","3","","",,
+"3","High school graduate, some post-secondary","","4","","",,
+"3","Postsecondary certificate or diploma","","5","","",,
+"3","University degree","","8","","",,
+"4","Males","","2","1","",,
+"4","Females","","3","1","",,
+"4","Both sexes","","1","","",,
+"5","15 to 24 years","","2","1","",,
+"5","25 years and over","","3","1","",,
+"5","25 to 54 years","","4","1","",,
+"5","55 years and over","","5","1","",,
+"5","55 to 64 years","","6","1","",,
+"5","65 years and over","","7","1","",,
+"5","15 years and over","","1","","",,
+
+Symbol Legend
+Description,Symbol
+"not available for a specific reference period","..",
+"less than the limit of detection","<LOD",
+"value rounded to 0 (zero) where there is a meaningful distinction between true zero and the value that was rounded","0s",
+"data quality: excellent","A",
+"data quality: very good","B",
+"data quality: good","C",
+"data quality: acceptable","D",
+"use with caution","E",
+"too unreliable to be published","F",
+"not applicable","...",
+"preliminary","p",
+"revised","r",
+"suppressed to meet the confidentiality requirements of the Statistics Act","x",
+"terminated","t",
+
+"Survey Code","Survey Name"
+"3701","Labour Force Survey"
+
+"Subject Code","Subject Name"
+"14","Labour"
+
+"Note ID",Note
+1,"To ensure respondent confidentiality, estimates below a certain threshold are suppressed. For Canada, Quebec, Ontario, Alberta and British Columbia suppression is applied to all data below 1,500. The threshold level for Newfoundland and Labrador, Nova Scotia, New Brunswick, Manitoba and Saskatchewan is 500, while in Prince Edward Island, estimates under 200 are supressed. For census metropolitan areas (CMAs) and economic regions (ERs), use their respective provincial suppression levels mentioned above. Estimates are based on smaller sample sizes the more detailed the table becomes, which could result in lower data quality."
+3,"Like tables 14-10-0019-01 and 14-10-0020-01, this table is based on the highest level of education attained. The categories in this table are slightly different from the previously mentioned tables in that they are based on the highest degree obtained. Also, more categories are included for high school and post-secondary graduates."
+15,"Excluding the territories."
+5,"Number of civilian, non-institutionalized persons 15 years of age and over who, during the reference week, were employed or unemployed. Estimates in thousands, rounded to the nearest hundred."
+10,"Persons in the civilian non-institutional population 15 years of age and over who, during the reference week, were neither employed nor unemployed. Estimates in thousands, rounded to the nearest hundred."
+6,"Number of persons who, during the reference week, worked for pay or profit, or performed unpaid family work or had a job but were not at work due to own illness or disability, personal or family responsibilities, labour dispute, vacation, or other reason. Those persons on layoff and persons without work but who had a job to start at a definite date in the future are not considered employed. Estimates in thousands, rounded to the nearest hundred."
+9,"Number of persons who, during the reference week, were without work, had looked for work in the past four weeks, and were available for work. Those persons on layoff or who had a new job to start in four weeks or less are considered unemployed. Estimates in thousands, rounded to the nearest hundred."
+7,"Full-time employment consists of persons who usually work 30 hours or more per week at their main or only job. Estimates in thousands, rounded to the nearest hundred."
+8,"Part-time employment consists of persons who usually work less than 30 hours per week at their main or only job. Estimates in thousands, rounded to the nearest hundred."
+4,"Number of persons of working age, 15 years and over. Estimates in thousands, rounded to the nearest hundred."
+14,"From December 2000 to January 2001, there is a slight level shift in the population series. This is due to the 2015 population rebasing, which was revised back to 2001. This level shift is evident for certain age groups and in two provinces (Manitoba and Saskatchewan). These shifts are minor for labour force estimates and rates."
+11,"The unemployment rate is the number of unemployed persons expressed as a percentage of the labour force. The unemployment rate for a particular group (age, sex, marital status, etc.) is the number unemployed in that group expressed as a percentage of the labour force for that group. Estimates are percentages, rounded to the nearest tenth."
+12,"The participation rate is the number of labour force participants expressed as a percentage of the population 15 years of age and over. The participation rate for a particular group (age, sex, marital status, etc.) is the number of labour force participants in that group expressed as a percentage of the population for that group. Estimates are percentages, rounded to the nearest tenth."
+13,"The employment rate is the number of persons employed expressed as a percentage of the population 15 years of age and over. The employment rate for a particular group (age, sex, marital status, etc.) is the number employed in that group expressed as a percentage of the population for that group. Estimates are percentages, rounded to the nearest tenth."
+
+"Correction ID","Correction Date","Correction Note"
