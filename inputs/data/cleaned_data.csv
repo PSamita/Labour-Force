@@ -1,0 +1,721 @@
+year,month,educational_degree,sex,value
+2017,01,"No degree, certificate or diploma",Males,38.3
+2017,02,"No degree, certificate or diploma",Males,38.4
+2017,03,"No degree, certificate or diploma",Males,38.1
+2017,04,"No degree, certificate or diploma",Males,38.4
+2017,05,"No degree, certificate or diploma",Males,40.9
+2017,06,"No degree, certificate or diploma",Males,41.9
+2017,07,"No degree, certificate or diploma",Males,43.5
+2017,08,"No degree, certificate or diploma",Males,43
+2017,09,"No degree, certificate or diploma",Males,40.3
+2017,10,"No degree, certificate or diploma",Males,39.9
+2017,11,"No degree, certificate or diploma",Males,39.4
+2017,12,"No degree, certificate or diploma",Males,39
+2018,01,"No degree, certificate or diploma",Males,38.2
+2018,02,"No degree, certificate or diploma",Males,38.9
+2018,03,"No degree, certificate or diploma",Males,38.8
+2018,04,"No degree, certificate or diploma",Males,39.2
+2018,05,"No degree, certificate or diploma",Males,41.2
+2018,06,"No degree, certificate or diploma",Males,41.7
+2018,07,"No degree, certificate or diploma",Males,43.1
+2018,08,"No degree, certificate or diploma",Males,43.1
+2018,09,"No degree, certificate or diploma",Males,41.1
+2018,10,"No degree, certificate or diploma",Males,40.1
+2018,11,"No degree, certificate or diploma",Males,40.2
+2018,12,"No degree, certificate or diploma",Males,39.8
+2019,01,"No degree, certificate or diploma",Males,39.1
+2019,02,"No degree, certificate or diploma",Males,39.7
+2019,03,"No degree, certificate or diploma",Males,39.5
+2019,04,"No degree, certificate or diploma",Males,39.4
+2019,05,"No degree, certificate or diploma",Males,40.7
+2019,06,"No degree, certificate or diploma",Males,41.2
+2019,07,"No degree, certificate or diploma",Males,43.1
+2019,08,"No degree, certificate or diploma",Males,42.7
+2019,09,"No degree, certificate or diploma",Males,40.2
+2019,10,"No degree, certificate or diploma",Males,39.8
+2019,11,"No degree, certificate or diploma",Males,39
+2019,12,"No degree, certificate or diploma",Males,38.9
+2020,01,"No degree, certificate or diploma",Males,38.3
+2020,02,"No degree, certificate or diploma",Males,37.7
+2020,03,"No degree, certificate or diploma",Males,34.7
+2020,04,"No degree, certificate or diploma",Males,29.8
+2020,05,"No degree, certificate or diploma",Males,33.2
+2020,06,"No degree, certificate or diploma",Males,37.2
+2020,07,"No degree, certificate or diploma",Males,38.5
+2020,08,"No degree, certificate or diploma",Males,39.4
+2020,09,"No degree, certificate or diploma",Males,39
+2020,10,"No degree, certificate or diploma",Males,37.7
+2020,11,"No degree, certificate or diploma",Males,38.1
+2020,12,"No degree, certificate or diploma",Males,37
+2021,01,"No degree, certificate or diploma",Males,34.5
+2021,02,"No degree, certificate or diploma",Males,35.3
+2021,03,"No degree, certificate or diploma",Males,35.1
+2021,04,"No degree, certificate or diploma",Males,36
+2021,05,"No degree, certificate or diploma",Males,37
+2021,06,"No degree, certificate or diploma",Males,38.9
+2021,07,"No degree, certificate or diploma",Males,41.9
+2021,08,"No degree, certificate or diploma",Males,41.8
+2021,09,"No degree, certificate or diploma",Males,39.8
+2021,10,"No degree, certificate or diploma",Males,38.7
+2021,11,"No degree, certificate or diploma",Males,39
+2021,12,"No degree, certificate or diploma",Males,38.8
+2017,01,"No degree, certificate or diploma",Females,24.8
+2017,02,"No degree, certificate or diploma",Females,24.6
+2017,03,"No degree, certificate or diploma",Females,25
+2017,04,"No degree, certificate or diploma",Females,24.4
+2017,05,"No degree, certificate or diploma",Females,25.9
+2017,06,"No degree, certificate or diploma",Females,26.1
+2017,07,"No degree, certificate or diploma",Females,27.9
+2017,08,"No degree, certificate or diploma",Females,26.7
+2017,09,"No degree, certificate or diploma",Females,26.4
+2017,10,"No degree, certificate or diploma",Females,27
+2017,11,"No degree, certificate or diploma",Females,26.4
+2017,12,"No degree, certificate or diploma",Females,26.7
+2018,01,"No degree, certificate or diploma",Females,25.3
+2018,02,"No degree, certificate or diploma",Females,25
+2018,03,"No degree, certificate or diploma",Females,24.5
+2018,04,"No degree, certificate or diploma",Females,24.8
+2018,05,"No degree, certificate or diploma",Females,26
+2018,06,"No degree, certificate or diploma",Females,25.9
+2018,07,"No degree, certificate or diploma",Females,27.7
+2018,08,"No degree, certificate or diploma",Females,27.7
+2018,09,"No degree, certificate or diploma",Females,26.1
+2018,10,"No degree, certificate or diploma",Females,26.1
+2018,11,"No degree, certificate or diploma",Females,26.3
+2018,12,"No degree, certificate or diploma",Females,25.9
+2019,01,"No degree, certificate or diploma",Females,25.3
+2019,02,"No degree, certificate or diploma",Females,25.7
+2019,03,"No degree, certificate or diploma",Females,25.9
+2019,04,"No degree, certificate or diploma",Females,26.4
+2019,05,"No degree, certificate or diploma",Females,27.5
+2019,06,"No degree, certificate or diploma",Females,27.5
+2019,07,"No degree, certificate or diploma",Females,28.4
+2019,08,"No degree, certificate or diploma",Females,28
+2019,09,"No degree, certificate or diploma",Females,25.7
+2019,10,"No degree, certificate or diploma",Females,25.8
+2019,11,"No degree, certificate or diploma",Females,25
+2019,12,"No degree, certificate or diploma",Females,25.2
+2020,01,"No degree, certificate or diploma",Females,25
+2020,02,"No degree, certificate or diploma",Females,25.4
+2020,03,"No degree, certificate or diploma",Females,22.2
+2020,04,"No degree, certificate or diploma",Females,18.1
+2020,05,"No degree, certificate or diploma",Females,19
+2020,06,"No degree, certificate or diploma",Females,21.8
+2020,07,"No degree, certificate or diploma",Females,24.9
+2020,08,"No degree, certificate or diploma",Females,25.2
+2020,09,"No degree, certificate or diploma",Females,23.9
+2020,10,"No degree, certificate or diploma",Females,23.7
+2020,11,"No degree, certificate or diploma",Females,22.9
+2020,12,"No degree, certificate or diploma",Females,22.2
+2021,01,"No degree, certificate or diploma",Females,20
+2021,02,"No degree, certificate or diploma",Females,21.7
+2021,03,"No degree, certificate or diploma",Females,22.4
+2021,04,"No degree, certificate or diploma",Females,21.7
+2021,05,"No degree, certificate or diploma",Females,23.1
+2021,06,"No degree, certificate or diploma",Females,25.4
+2021,07,"No degree, certificate or diploma",Females,27.7
+2021,08,"No degree, certificate or diploma",Females,29.2
+2021,09,"No degree, certificate or diploma",Females,26.8
+2021,10,"No degree, certificate or diploma",Females,25.8
+2021,11,"No degree, certificate or diploma",Females,27
+2021,12,"No degree, certificate or diploma",Females,26.9
+2017,01,High school graduate,Males,63.1
+2017,02,High school graduate,Males,63.5
+2017,03,High school graduate,Males,63.9
+2017,04,High school graduate,Males,64.5
+2017,05,High school graduate,Males,67.7
+2017,06,High school graduate,Males,68.2
+2017,07,High school graduate,Males,68.5
+2017,08,High school graduate,Males,68.1
+2017,09,High school graduate,Males,66.9
+2017,10,High school graduate,Males,66.2
+2017,11,High school graduate,Males,66.2
+2017,12,High school graduate,Males,65.1
+2018,01,High school graduate,Males,62.7
+2018,02,High school graduate,Males,62.8
+2018,03,High school graduate,Males,63.1
+2018,04,High school graduate,Males,63.1
+2018,05,High school graduate,Males,66.2
+2018,06,High school graduate,Males,66.9
+2018,07,High school graduate,Males,66.8
+2018,08,High school graduate,Males,66.5
+2018,09,High school graduate,Males,65
+2018,10,High school graduate,Males,64.6
+2018,11,High school graduate,Males,64
+2018,12,High school graduate,Males,63.4
+2019,01,High school graduate,Males,62.2
+2019,02,High school graduate,Males,61.9
+2019,03,High school graduate,Males,62.8
+2019,04,High school graduate,Males,63.4
+2019,05,High school graduate,Males,66.2
+2019,06,High school graduate,Males,67.1
+2019,07,High school graduate,Males,67.4
+2019,08,High school graduate,Males,67.7
+2019,09,High school graduate,Males,65.5
+2019,10,High school graduate,Males,64.7
+2019,11,High school graduate,Males,63.5
+2019,12,High school graduate,Males,63.1
+2020,01,High school graduate,Males,61.6
+2020,02,High school graduate,Males,63.5
+2020,03,High school graduate,Males,60.9
+2020,04,High school graduate,Males,52.4
+2020,05,High school graduate,Males,55.8
+2020,06,High school graduate,Males,60.8
+2020,07,High school graduate,Males,61.2
+2020,08,High school graduate,Males,61.1
+2020,09,High school graduate,Males,60.8
+2020,10,High school graduate,Males,61.3
+2020,11,High school graduate,Males,61.1
+2020,12,High school graduate,Males,59.7
+2021,01,High school graduate,Males,57.7
+2021,02,High school graduate,Males,59.1
+2021,03,High school graduate,Males,60.3
+2021,04,High school graduate,Males,59.5
+2021,05,High school graduate,Males,61.7
+2021,06,High school graduate,Males,62.1
+2021,07,High school graduate,Males,63.8
+2021,08,High school graduate,Males,63.4
+2021,09,High school graduate,Males,61.8
+2021,10,High school graduate,Males,62.6
+2021,11,High school graduate,Males,62.4
+2021,12,High school graduate,Males,61.4
+2017,01,High school graduate,Females,50.2
+2017,02,High school graduate,Females,50
+2017,03,High school graduate,Females,50.3
+2017,04,High school graduate,Females,50.1
+2017,05,High school graduate,Females,51
+2017,06,High school graduate,Females,51.3
+2017,07,High school graduate,Females,50.6
+2017,08,High school graduate,Females,50.5
+2017,09,High school graduate,Females,50
+2017,10,High school graduate,Females,50.2
+2017,11,High school graduate,Females,50.2
+2017,12,High school graduate,Females,50.6
+2018,01,High school graduate,Females,49.5
+2018,02,High school graduate,Females,49.5
+2018,03,High school graduate,Females,49.7
+2018,04,High school graduate,Females,50
+2018,05,High school graduate,Females,50.8
+2018,06,High school graduate,Females,51.3
+2018,07,High school graduate,Females,50.5
+2018,08,High school graduate,Females,49.7
+2018,09,High school graduate,Females,49.1
+2018,10,High school graduate,Females,48.8
+2018,11,High school graduate,Females,48.9
+2018,12,High school graduate,Females,49.5
+2019,01,High school graduate,Females,49.2
+2019,02,High school graduate,Females,49
+2019,03,High school graduate,Females,48.3
+2019,04,High school graduate,Females,49
+2019,05,High school graduate,Females,50.6
+2019,06,High school graduate,Females,50.3
+2019,07,High school graduate,Females,49.4
+2019,08,High school graduate,Females,49.6
+2019,09,High school graduate,Females,49.1
+2019,10,High school graduate,Females,48.9
+2019,11,High school graduate,Females,48.7
+2019,12,High school graduate,Females,49
+2020,01,High school graduate,Females,48.2
+2020,02,High school graduate,Females,48.8
+2020,03,High school graduate,Females,43.7
+2020,04,High school graduate,Females,37.4
+2020,05,High school graduate,Females,38.7
+2020,06,High school graduate,Females,43.3
+2020,07,High school graduate,Females,44.6
+2020,08,High school graduate,Females,45
+2020,09,High school graduate,Females,45.2
+2020,10,High school graduate,Females,45
+2020,11,High school graduate,Females,44.8
+2020,12,High school graduate,Females,44.5
+2021,01,High school graduate,Females,43.2
+2021,02,High school graduate,Females,43.7
+2021,03,High school graduate,Females,44.6
+2021,04,High school graduate,Females,43.5
+2021,05,High school graduate,Females,45.3
+2021,06,High school graduate,Females,46.9
+2021,07,High school graduate,Females,47.1
+2021,08,High school graduate,Females,46.7
+2021,09,High school graduate,Females,46
+2021,10,High school graduate,Females,47.2
+2021,11,High school graduate,Females,47.5
+2021,12,High school graduate,Females,47.5
+2017,01,"High school graduate, some post-secondary",Males,59
+2017,02,"High school graduate, some post-secondary",Males,60.1
+2017,03,"High school graduate, some post-secondary",Males,59.4
+2017,04,"High school graduate, some post-secondary",Males,59.8
+2017,05,"High school graduate, some post-secondary",Males,66.4
+2017,06,"High school graduate, some post-secondary",Males,68.8
+2017,07,"High school graduate, some post-secondary",Males,69.7
+2017,08,"High school graduate, some post-secondary",Males,70.7
+2017,09,"High school graduate, some post-secondary",Males,61.9
+2017,10,"High school graduate, some post-secondary",Males,62.1
+2017,11,"High school graduate, some post-secondary",Males,62.9
+2017,12,"High school graduate, some post-secondary",Males,61.4
+2018,01,"High school graduate, some post-secondary",Males,60.1
+2018,02,"High school graduate, some post-secondary",Males,58.9
+2018,03,"High school graduate, some post-secondary",Males,58.8
+2018,04,"High school graduate, some post-secondary",Males,59.6
+2018,05,"High school graduate, some post-secondary",Males,64.8
+2018,06,"High school graduate, some post-secondary",Males,68.4
+2018,07,"High school graduate, some post-secondary",Males,72.3
+2018,08,"High school graduate, some post-secondary",Males,69.4
+2018,09,"High school graduate, some post-secondary",Males,62.8
+2018,10,"High school graduate, some post-secondary",Males,62.2
+2018,11,"High school graduate, some post-secondary",Males,62.6
+2018,12,"High school graduate, some post-secondary",Males,61.2
+2019,01,"High school graduate, some post-secondary",Males,59.4
+2019,02,"High school graduate, some post-secondary",Males,58.8
+2019,03,"High school graduate, some post-secondary",Males,60.3
+2019,04,"High school graduate, some post-secondary",Males,62.3
+2019,05,"High school graduate, some post-secondary",Males,67.8
+2019,06,"High school graduate, some post-secondary",Males,70.7
+2019,07,"High school graduate, some post-secondary",Males,71.5
+2019,08,"High school graduate, some post-secondary",Males,69.4
+2019,09,"High school graduate, some post-secondary",Males,62.4
+2019,10,"High school graduate, some post-secondary",Males,61.4
+2019,11,"High school graduate, some post-secondary",Males,61
+2019,12,"High school graduate, some post-secondary",Males,60.2
+2020,01,"High school graduate, some post-secondary",Males,57.5
+2020,02,"High school graduate, some post-secondary",Males,59.8
+2020,03,"High school graduate, some post-secondary",Males,55.9
+2020,04,"High school graduate, some post-secondary",Males,47.8
+2020,05,"High school graduate, some post-secondary",Males,49.3
+2020,06,"High school graduate, some post-secondary",Males,58.6
+2020,07,"High school graduate, some post-secondary",Males,61.9
+2020,08,"High school graduate, some post-secondary",Males,62.4
+2020,09,"High school graduate, some post-secondary",Males,59.8
+2020,10,"High school graduate, some post-secondary",Males,60.4
+2020,11,"High school graduate, some post-secondary",Males,57
+2020,12,"High school graduate, some post-secondary",Males,56.7
+2021,01,"High school graduate, some post-secondary",Males,54.5
+2021,02,"High school graduate, some post-secondary",Males,54.9
+2021,03,"High school graduate, some post-secondary",Males,56.8
+2021,04,"High school graduate, some post-secondary",Males,57
+2021,05,"High school graduate, some post-secondary",Males,60.6
+2021,06,"High school graduate, some post-secondary",Males,69.1
+2021,07,"High school graduate, some post-secondary",Males,69.7
+2021,08,"High school graduate, some post-secondary",Males,68.5
+2021,09,"High school graduate, some post-secondary",Males,62
+2021,10,"High school graduate, some post-secondary",Males,59.7
+2021,11,"High school graduate, some post-secondary",Males,59.7
+2021,12,"High school graduate, some post-secondary",Males,58.4
+2017,01,"High school graduate, some post-secondary",Females,55.8
+2017,02,"High school graduate, some post-secondary",Females,55.7
+2017,03,"High school graduate, some post-secondary",Females,55
+2017,04,"High school graduate, some post-secondary",Females,55.8
+2017,05,"High school graduate, some post-secondary",Females,62.6
+2017,06,"High school graduate, some post-secondary",Females,64.8
+2017,07,"High school graduate, some post-secondary",Females,66.3
+2017,08,"High school graduate, some post-secondary",Females,64.9
+2017,09,"High school graduate, some post-secondary",Females,57.3
+2017,10,"High school graduate, some post-secondary",Females,58.8
+2017,11,"High school graduate, some post-secondary",Females,57.4
+2017,12,"High school graduate, some post-secondary",Females,59.3
+2018,01,"High school graduate, some post-secondary",Females,56.5
+2018,02,"High school graduate, some post-secondary",Females,55.6
+2018,03,"High school graduate, some post-secondary",Females,56.1
+2018,04,"High school graduate, some post-secondary",Females,54.9
+2018,05,"High school graduate, some post-secondary",Females,58.5
+2018,06,"High school graduate, some post-secondary",Females,61.7
+2018,07,"High school graduate, some post-secondary",Females,64.5
+2018,08,"High school graduate, some post-secondary",Females,63.7
+2018,09,"High school graduate, some post-secondary",Females,57.5
+2018,10,"High school graduate, some post-secondary",Females,57.7
+2018,11,"High school graduate, some post-secondary",Females,57.3
+2018,12,"High school graduate, some post-secondary",Females,56.4
+2019,01,"High school graduate, some post-secondary",Females,56.3
+2019,02,"High school graduate, some post-secondary",Females,56.6
+2019,03,"High school graduate, some post-secondary",Females,57.6
+2019,04,"High school graduate, some post-secondary",Females,57.1
+2019,05,"High school graduate, some post-secondary",Females,61.6
+2019,06,"High school graduate, some post-secondary",Females,64
+2019,07,"High school graduate, some post-secondary",Females,64.4
+2019,08,"High school graduate, some post-secondary",Females,62.6
+2019,09,"High school graduate, some post-secondary",Females,55.7
+2019,10,"High school graduate, some post-secondary",Females,57.2
+2019,11,"High school graduate, some post-secondary",Females,56.8
+2019,12,"High school graduate, some post-secondary",Females,57.2
+2020,01,"High school graduate, some post-secondary",Females,57.5
+2020,02,"High school graduate, some post-secondary",Females,57.2
+2020,03,"High school graduate, some post-secondary",Females,48.5
+2020,04,"High school graduate, some post-secondary",Females,40.3
+2020,05,"High school graduate, some post-secondary",Females,42.4
+2020,06,"High school graduate, some post-secondary",Females,50.4
+2020,07,"High school graduate, some post-secondary",Females,53.8
+2020,08,"High school graduate, some post-secondary",Females,58.2
+2020,09,"High school graduate, some post-secondary",Females,53.4
+2020,10,"High school graduate, some post-secondary",Females,52.2
+2020,11,"High school graduate, some post-secondary",Females,53.6
+2020,12,"High school graduate, some post-secondary",Females,53.4
+2021,01,"High school graduate, some post-secondary",Females,49.3
+2021,02,"High school graduate, some post-secondary",Females,48.7
+2021,03,"High school graduate, some post-secondary",Females,51.2
+2021,04,"High school graduate, some post-secondary",Females,49.5
+2021,05,"High school graduate, some post-secondary",Females,52.3
+2021,06,"High school graduate, some post-secondary",Females,60.2
+2021,07,"High school graduate, some post-secondary",Females,62
+2021,08,"High school graduate, some post-secondary",Females,61.2
+2021,09,"High school graduate, some post-secondary",Females,55.7
+2021,10,"High school graduate, some post-secondary",Females,54.2
+2021,11,"High school graduate, some post-secondary",Females,54.5
+2021,12,"High school graduate, some post-secondary",Females,54.2
+2017,01,Postsecondary certificate or diploma,Males,70.8
+2017,02,Postsecondary certificate or diploma,Males,70.6
+2017,03,Postsecondary certificate or diploma,Males,70.8
+2017,04,Postsecondary certificate or diploma,Males,70.6
+2017,05,Postsecondary certificate or diploma,Males,72.3
+2017,06,Postsecondary certificate or diploma,Males,72.7
+2017,07,Postsecondary certificate or diploma,Males,72.6
+2017,08,Postsecondary certificate or diploma,Males,73.1
+2017,09,Postsecondary certificate or diploma,Males,72.6
+2017,10,Postsecondary certificate or diploma,Males,72.5
+2017,11,Postsecondary certificate or diploma,Males,72.2
+2017,12,Postsecondary certificate or diploma,Males,72.2
+2018,01,Postsecondary certificate or diploma,Males,71
+2018,02,Postsecondary certificate or diploma,Males,70.9
+2018,03,Postsecondary certificate or diploma,Males,71.6
+2018,04,Postsecondary certificate or diploma,Males,71.6
+2018,05,Postsecondary certificate or diploma,Males,72.7
+2018,06,Postsecondary certificate or diploma,Males,73.4
+2018,07,Postsecondary certificate or diploma,Males,73
+2018,08,Postsecondary certificate or diploma,Males,72.6
+2018,09,Postsecondary certificate or diploma,Males,72.6
+2018,10,Postsecondary certificate or diploma,Males,72.1
+2018,11,Postsecondary certificate or diploma,Males,72.4
+2018,12,Postsecondary certificate or diploma,Males,72
+2019,01,Postsecondary certificate or diploma,Males,71.2
+2019,02,Postsecondary certificate or diploma,Males,71.6
+2019,03,Postsecondary certificate or diploma,Males,71.4
+2019,04,Postsecondary certificate or diploma,Males,72.1
+2019,05,Postsecondary certificate or diploma,Males,73.4
+2019,06,Postsecondary certificate or diploma,Males,73.6
+2019,07,Postsecondary certificate or diploma,Males,73.3
+2019,08,Postsecondary certificate or diploma,Males,73.6
+2019,09,Postsecondary certificate or diploma,Males,73.5
+2019,10,Postsecondary certificate or diploma,Males,73.1
+2019,11,Postsecondary certificate or diploma,Males,72.7
+2019,12,Postsecondary certificate or diploma,Males,72.1
+2020,01,Postsecondary certificate or diploma,Males,71
+2020,02,Postsecondary certificate or diploma,Males,70.5
+2020,03,Postsecondary certificate or diploma,Males,67.6
+2020,04,Postsecondary certificate or diploma,Males,59.7
+2020,05,Postsecondary certificate or diploma,Males,63.2
+2020,06,Postsecondary certificate or diploma,Males,66.8
+2020,07,Postsecondary certificate or diploma,Males,68.6
+2020,08,Postsecondary certificate or diploma,Males,69.6
+2020,09,Postsecondary certificate or diploma,Males,70.1
+2020,10,Postsecondary certificate or diploma,Males,70.1
+2020,11,Postsecondary certificate or diploma,Males,69.9
+2020,12,Postsecondary certificate or diploma,Males,68.4
+2021,01,Postsecondary certificate or diploma,Males,66.7
+2021,02,Postsecondary certificate or diploma,Males,67.6
+2021,03,Postsecondary certificate or diploma,Males,68.8
+2021,04,Postsecondary certificate or diploma,Males,68.4
+2021,05,Postsecondary certificate or diploma,Males,70
+2021,06,Postsecondary certificate or diploma,Males,70.9
+2021,07,Postsecondary certificate or diploma,Males,69.9
+2021,08,Postsecondary certificate or diploma,Males,70
+2021,09,Postsecondary certificate or diploma,Males,70.5
+2021,10,Postsecondary certificate or diploma,Males,70.2
+2021,11,Postsecondary certificate or diploma,Males,70.2
+2021,12,Postsecondary certificate or diploma,Males,70
+2017,01,Postsecondary certificate or diploma,Females,65.2
+2017,02,Postsecondary certificate or diploma,Females,65.1
+2017,03,Postsecondary certificate or diploma,Females,65.2
+2017,04,Postsecondary certificate or diploma,Females,65.9
+2017,05,Postsecondary certificate or diploma,Females,66.3
+2017,06,Postsecondary certificate or diploma,Females,66.3
+2017,07,Postsecondary certificate or diploma,Females,64.6
+2017,08,Postsecondary certificate or diploma,Females,64.5
+2017,09,Postsecondary certificate or diploma,Females,64.9
+2017,10,Postsecondary certificate or diploma,Females,64.9
+2017,11,Postsecondary certificate or diploma,Females,64.7
+2017,12,Postsecondary certificate or diploma,Females,65
+2018,01,Postsecondary certificate or diploma,Females,64.6
+2018,02,Postsecondary certificate or diploma,Females,64.7
+2018,03,Postsecondary certificate or diploma,Females,65.1
+2018,04,Postsecondary certificate or diploma,Females,65.5
+2018,05,Postsecondary certificate or diploma,Females,65.9
+2018,06,Postsecondary certificate or diploma,Females,66.5
+2018,07,Postsecondary certificate or diploma,Females,65.1
+2018,08,Postsecondary certificate or diploma,Females,64.7
+2018,09,Postsecondary certificate or diploma,Females,65.3
+2018,10,Postsecondary certificate or diploma,Females,65.4
+2018,11,Postsecondary certificate or diploma,Females,65.7
+2018,12,Postsecondary certificate or diploma,Females,65.4
+2019,01,Postsecondary certificate or diploma,Females,64.9
+2019,02,Postsecondary certificate or diploma,Females,65.1
+2019,03,Postsecondary certificate or diploma,Females,65.2
+2019,04,Postsecondary certificate or diploma,Females,65.9
+2019,05,Postsecondary certificate or diploma,Females,65.8
+2019,06,Postsecondary certificate or diploma,Females,66.1
+2019,07,Postsecondary certificate or diploma,Females,64.4
+2019,08,Postsecondary certificate or diploma,Females,64.7
+2019,09,Postsecondary certificate or diploma,Females,66.4
+2019,10,Postsecondary certificate or diploma,Females,66.3
+2019,11,Postsecondary certificate or diploma,Females,66.1
+2019,12,Postsecondary certificate or diploma,Females,66.1
+2020,01,Postsecondary certificate or diploma,Females,64.9
+2020,02,Postsecondary certificate or diploma,Females,64.9
+2020,03,Postsecondary certificate or diploma,Females,60.5
+2020,04,Postsecondary certificate or diploma,Females,54
+2020,05,Postsecondary certificate or diploma,Females,55.3
+2020,06,Postsecondary certificate or diploma,Females,59
+2020,07,Postsecondary certificate or diploma,Females,59.1
+2020,08,Postsecondary certificate or diploma,Females,59.4
+2020,09,Postsecondary certificate or diploma,Females,61.3
+2020,10,Postsecondary certificate or diploma,Females,61.7
+2020,11,Postsecondary certificate or diploma,Females,61.5
+2020,12,Postsecondary certificate or diploma,Females,61.2
+2021,01,Postsecondary certificate or diploma,Females,59.5
+2021,02,Postsecondary certificate or diploma,Females,60.8
+2021,03,Postsecondary certificate or diploma,Females,61
+2021,04,Postsecondary certificate or diploma,Females,61.5
+2021,05,Postsecondary certificate or diploma,Females,61.3
+2021,06,Postsecondary certificate or diploma,Females,62.2
+2021,07,Postsecondary certificate or diploma,Females,60.3
+2021,08,Postsecondary certificate or diploma,Females,60.5
+2021,09,Postsecondary certificate or diploma,Females,62.8
+2021,10,Postsecondary certificate or diploma,Females,62.3
+2021,11,Postsecondary certificate or diploma,Females,62.7
+2021,12,Postsecondary certificate or diploma,Females,62.5
+2017,01,Bachelor's degree,Males,75.7
+2017,02,Bachelor's degree,Males,76
+2017,03,Bachelor's degree,Males,76.1
+2017,04,Bachelor's degree,Males,76.8
+2017,05,Bachelor's degree,Males,77.1
+2017,06,Bachelor's degree,Males,77.3
+2017,07,Bachelor's degree,Males,76.1
+2017,08,Bachelor's degree,Males,75.5
+2017,09,Bachelor's degree,Males,75.3
+2017,10,Bachelor's degree,Males,76.4
+2017,11,Bachelor's degree,Males,76.6
+2017,12,Bachelor's degree,Males,77.1
+2018,01,Bachelor's degree,Males,76
+2018,02,Bachelor's degree,Males,76.2
+2018,03,Bachelor's degree,Males,76.9
+2018,04,Bachelor's degree,Males,76.2
+2018,05,Bachelor's degree,Males,76.2
+2018,06,Bachelor's degree,Males,76.5
+2018,07,Bachelor's degree,Males,75.3
+2018,08,Bachelor's degree,Males,74.8
+2018,09,Bachelor's degree,Males,75.3
+2018,10,Bachelor's degree,Males,76.2
+2018,11,Bachelor's degree,Males,76.6
+2018,12,Bachelor's degree,Males,75.8
+2019,01,Bachelor's degree,Males,75.4
+2019,02,Bachelor's degree,Males,75.9
+2019,03,Bachelor's degree,Males,76.2
+2019,04,Bachelor's degree,Males,75.9
+2019,05,Bachelor's degree,Males,76
+2019,06,Bachelor's degree,Males,76.1
+2019,07,Bachelor's degree,Males,75.2
+2019,08,Bachelor's degree,Males,75.4
+2019,09,Bachelor's degree,Males,76.5
+2019,10,Bachelor's degree,Males,77.4
+2019,11,Bachelor's degree,Males,76.9
+2019,12,Bachelor's degree,Males,76.7
+2020,01,Bachelor's degree,Males,75.3
+2020,02,Bachelor's degree,Males,75.7
+2020,03,Bachelor's degree,Males,73.2
+2020,04,Bachelor's degree,Males,69
+2020,05,Bachelor's degree,Males,70
+2020,06,Bachelor's degree,Males,72.4
+2020,07,Bachelor's degree,Males,72.2
+2020,08,Bachelor's degree,Males,72.5
+2020,09,Bachelor's degree,Males,73.3
+2020,10,Bachelor's degree,Males,73.5
+2020,11,Bachelor's degree,Males,73.5
+2020,12,Bachelor's degree,Males,74.3
+2021,01,Bachelor's degree,Males,73.7
+2021,02,Bachelor's degree,Males,74.1
+2021,03,Bachelor's degree,Males,74.8
+2021,04,Bachelor's degree,Males,74.5
+2021,05,Bachelor's degree,Males,75.6
+2021,06,Bachelor's degree,Males,76.4
+2021,07,Bachelor's degree,Males,75.5
+2021,08,Bachelor's degree,Males,76.3
+2021,09,Bachelor's degree,Males,76.6
+2021,10,Bachelor's degree,Males,77.2
+2021,11,Bachelor's degree,Males,76.5
+2021,12,Bachelor's degree,Males,76.9
+2017,01,Bachelor's degree,Females,72.2
+2017,02,Bachelor's degree,Females,72.7
+2017,03,Bachelor's degree,Females,72.2
+2017,04,Bachelor's degree,Females,72.4
+2017,05,Bachelor's degree,Females,72.6
+2017,06,Bachelor's degree,Females,73.1
+2017,07,Bachelor's degree,Females,71.4
+2017,08,Bachelor's degree,Females,70.7
+2017,09,Bachelor's degree,Females,72.2
+2017,10,Bachelor's degree,Females,72.2
+2017,11,Bachelor's degree,Females,72.7
+2017,12,Bachelor's degree,Females,72.8
+2018,01,Bachelor's degree,Females,71.8
+2018,02,Bachelor's degree,Females,72.1
+2018,03,Bachelor's degree,Females,71.7
+2018,04,Bachelor's degree,Females,72.5
+2018,05,Bachelor's degree,Females,72.4
+2018,06,Bachelor's degree,Females,72.2
+2018,07,Bachelor's degree,Females,70.6
+2018,08,Bachelor's degree,Females,70.1
+2018,09,Bachelor's degree,Females,71.3
+2018,10,Bachelor's degree,Females,71.7
+2018,11,Bachelor's degree,Females,71.6
+2018,12,Bachelor's degree,Females,72.5
+2019,01,Bachelor's degree,Females,71.8
+2019,02,Bachelor's degree,Females,72.9
+2019,03,Bachelor's degree,Females,71.7
+2019,04,Bachelor's degree,Females,72.2
+2019,05,Bachelor's degree,Females,72.5
+2019,06,Bachelor's degree,Females,73
+2019,07,Bachelor's degree,Females,70.5
+2019,08,Bachelor's degree,Females,70.4
+2019,09,Bachelor's degree,Females,71.7
+2019,10,Bachelor's degree,Females,72.6
+2019,11,Bachelor's degree,Females,72.4
+2019,12,Bachelor's degree,Females,72.2
+2020,01,Bachelor's degree,Females,71.6
+2020,02,Bachelor's degree,Females,71.4
+2020,03,Bachelor's degree,Females,67.8
+2020,04,Bachelor's degree,Females,63.3
+2020,05,Bachelor's degree,Females,64.6
+2020,06,Bachelor's degree,Females,66.2
+2020,07,Bachelor's degree,Females,65.4
+2020,08,Bachelor's degree,Females,65.5
+2020,09,Bachelor's degree,Females,69.7
+2020,10,Bachelor's degree,Females,70.9
+2020,11,Bachelor's degree,Females,71.2
+2020,12,Bachelor's degree,Females,72
+2021,01,Bachelor's degree,Females,70.2
+2021,02,Bachelor's degree,Females,71.3
+2021,03,Bachelor's degree,Females,72.3
+2021,04,Bachelor's degree,Females,72
+2021,05,Bachelor's degree,Females,70.9
+2021,06,Bachelor's degree,Females,71.7
+2021,07,Bachelor's degree,Females,69.4
+2021,08,Bachelor's degree,Females,69.3
+2021,09,Bachelor's degree,Females,71.4
+2021,10,Bachelor's degree,Females,71.2
+2021,11,Bachelor's degree,Females,71.4
+2021,12,Bachelor's degree,Females,72.1
+2017,01,Above bachelor's degree,Males,74.7
+2017,02,Above bachelor's degree,Males,74.9
+2017,03,Above bachelor's degree,Males,74.2
+2017,04,Above bachelor's degree,Males,74.5
+2017,05,Above bachelor's degree,Males,74
+2017,06,Above bachelor's degree,Males,73.7
+2017,07,Above bachelor's degree,Males,73.5
+2017,08,Above bachelor's degree,Males,74.1
+2017,09,Above bachelor's degree,Males,74.6
+2017,10,Above bachelor's degree,Males,75.3
+2017,11,Above bachelor's degree,Males,75.7
+2017,12,Above bachelor's degree,Males,75
+2018,01,Above bachelor's degree,Males,74.6
+2018,02,Above bachelor's degree,Males,75.1
+2018,03,Above bachelor's degree,Males,74.6
+2018,04,Above bachelor's degree,Males,74.8
+2018,05,Above bachelor's degree,Males,74.6
+2018,06,Above bachelor's degree,Males,75.1
+2018,07,Above bachelor's degree,Males,74
+2018,08,Above bachelor's degree,Males,74.3
+2018,09,Above bachelor's degree,Males,74.5
+2018,10,Above bachelor's degree,Males,74.4
+2018,11,Above bachelor's degree,Males,73.7
+2018,12,Above bachelor's degree,Males,73.5
+2019,01,Above bachelor's degree,Males,72.9
+2019,02,Above bachelor's degree,Males,72.8
+2019,03,Above bachelor's degree,Males,72.6
+2019,04,Above bachelor's degree,Males,73.5
+2019,05,Above bachelor's degree,Males,73.1
+2019,06,Above bachelor's degree,Males,74
+2019,07,Above bachelor's degree,Males,73.6
+2019,08,Above bachelor's degree,Males,73.7
+2019,09,Above bachelor's degree,Males,73.5
+2019,10,Above bachelor's degree,Males,73.1
+2019,11,Above bachelor's degree,Males,72.6
+2019,12,Above bachelor's degree,Males,73.1
+2020,01,Above bachelor's degree,Males,73.9
+2020,02,Above bachelor's degree,Males,74.9
+2020,03,Above bachelor's degree,Males,73.3
+2020,04,Above bachelor's degree,Males,69.7
+2020,05,Above bachelor's degree,Males,71
+2020,06,Above bachelor's degree,Males,72
+2020,07,Above bachelor's degree,Males,71.7
+2020,08,Above bachelor's degree,Males,71.7
+2020,09,Above bachelor's degree,Males,72.5
+2020,10,Above bachelor's degree,Males,73.4
+2020,11,Above bachelor's degree,Males,73.2
+2020,12,Above bachelor's degree,Males,74.6
+2021,01,Above bachelor's degree,Males,74.3
+2021,02,Above bachelor's degree,Males,75.8
+2021,03,Above bachelor's degree,Males,74.8
+2021,04,Above bachelor's degree,Males,75.7
+2021,05,Above bachelor's degree,Males,74.4
+2021,06,Above bachelor's degree,Males,73.8
+2021,07,Above bachelor's degree,Males,74.1
+2021,08,Above bachelor's degree,Males,73.5
+2021,09,Above bachelor's degree,Males,75.9
+2021,10,Above bachelor's degree,Males,76.2
+2021,11,Above bachelor's degree,Males,76.6
+2021,12,Above bachelor's degree,Males,77
+2017,01,Above bachelor's degree,Females,74.3
+2017,02,Above bachelor's degree,Females,74.6
+2017,03,Above bachelor's degree,Females,74.7
+2017,04,Above bachelor's degree,Females,75.4
+2017,05,Above bachelor's degree,Females,74.2
+2017,06,Above bachelor's degree,Females,74.7
+2017,07,Above bachelor's degree,Females,72.7
+2017,08,Above bachelor's degree,Females,73
+2017,09,Above bachelor's degree,Females,75.4
+2017,10,Above bachelor's degree,Females,74.7
+2017,11,Above bachelor's degree,Females,76.4
+2017,12,Above bachelor's degree,Females,75.4
+2018,01,Above bachelor's degree,Females,74.1
+2018,02,Above bachelor's degree,Females,75.6
+2018,03,Above bachelor's degree,Females,75.2
+2018,04,Above bachelor's degree,Females,75.1
+2018,05,Above bachelor's degree,Females,74.2
+2018,06,Above bachelor's degree,Females,73.6
+2018,07,Above bachelor's degree,Females,70.7
+2018,08,Above bachelor's degree,Females,70.2
+2018,09,Above bachelor's degree,Females,72.9
+2018,10,Above bachelor's degree,Females,74.2
+2018,11,Above bachelor's degree,Females,74.8
+2018,12,Above bachelor's degree,Females,74.7
+2019,01,Above bachelor's degree,Females,73.6
+2019,02,Above bachelor's degree,Females,74
+2019,03,Above bachelor's degree,Females,73.9
+2019,04,Above bachelor's degree,Females,74.3
+2019,05,Above bachelor's degree,Females,74.3
+2019,06,Above bachelor's degree,Females,74.5
+2019,07,Above bachelor's degree,Females,72.9
+2019,08,Above bachelor's degree,Females,72.5
+2019,09,Above bachelor's degree,Females,74.5
+2019,10,Above bachelor's degree,Females,74.4
+2019,11,Above bachelor's degree,Females,73.9
+2019,12,Above bachelor's degree,Females,74.8
+2020,01,Above bachelor's degree,Females,73.5
+2020,02,Above bachelor's degree,Females,74
+2020,03,Above bachelor's degree,Females,72.3
+2020,04,Above bachelor's degree,Females,69.3
+2020,05,Above bachelor's degree,Females,70.3
+2020,06,Above bachelor's degree,Females,70.9
+2020,07,Above bachelor's degree,Females,69.8
+2020,08,Above bachelor's degree,Females,69.5
+2020,09,Above bachelor's degree,Females,72.5
+2020,10,Above bachelor's degree,Females,73.3
+2020,11,Above bachelor's degree,Females,74.5
+2020,12,Above bachelor's degree,Females,74.6
+2021,01,Above bachelor's degree,Females,74.5
+2021,02,Above bachelor's degree,Females,75.1
+2021,03,Above bachelor's degree,Females,76.6
+2021,04,Above bachelor's degree,Females,76.3
+2021,05,Above bachelor's degree,Females,75.9
+2021,06,Above bachelor's degree,Females,75.5
+2021,07,Above bachelor's degree,Females,74.1
+2021,08,Above bachelor's degree,Females,73
+2021,09,Above bachelor's degree,Females,75.1
+2021,10,Above bachelor's degree,Females,76.5
+2021,11,Above bachelor's degree,Females,77.2
+2021,12,Above bachelor's degree,Females,76.4
