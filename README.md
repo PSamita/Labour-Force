@@ -18,8 +18,8 @@ There are 3 files for the code as follow:
 1. Download the zip file from this repository containing all files and folders.
 2. Open the folder from zip file.
 3. Open Labour Force.Rproj using RStudio software.
-4. Open and run data_gathering.R file to get the data.
-5. Open and run paper.Rmd to get the pdf file of the paper with all figures and text.
+4. Open and run data_gathering.R file in the scripts folder to get the data.
+5. Open and run paper.Rmd in the outputs folder to get the pdf file of the paper with all figures and text.
 
 ## List of figures and tables
 1. Table 1: Canada Employment Rate from 2017 to 2021 by Educa- tional Degree and Sex
